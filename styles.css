@@ -4,6 +4,7 @@ body{
     font-family: 'DM Serif Display', serif;
 font-family: 'Roboto', sans-serif;
 }
+/**Container**/
 .container-fluid {
     padding-left:3rem;
     padding-right:3rem;
@@ -12,3 +13,5 @@ font-family: 'Roboto', sans-serif;
     max-width:600px;
     margin:auto;
 }
+/**Links**/
+
