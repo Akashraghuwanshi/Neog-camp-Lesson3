@@ -4,7 +4,11 @@ body{
     font-family: 'DM Serif Display', serif;
 font-family: 'Roboto', sans-serif;
 }
-.conatiner{
+.container-fluid {
     padding-left:3rem;
     padding-right:3rem;
+}
+.container-centre{
+    max-width:600px;
+    margin:auto;
 }
