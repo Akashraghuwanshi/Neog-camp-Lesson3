@@ -4,3 +4,7 @@ body{
     font-family: 'DM Serif Display', serif;
 font-family: 'Roboto', sans-serif;
 }
+.conatiner{
+    padding-left:3rem;
+    padding-right:3rem;
+}
